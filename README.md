@@ -1,16 +1,8 @@
-📊 [Impact of Remote Work on Employee Mental Health and Productivity:]{.underline}
+📊 Impact of Remote Work on Employee Mental Health and Productivity
 
 This project analyzes how remote work influences employee mental health and productivity using data-driven insights and interactive dashboards. It highlights patterns, correlations, and key factors affecting employee well-being and performance in a remote work environment.
 
-📌 [Dashboard:]{.underline}
-
-![](media/image1.png){width="6.268055555555556in" height="3.3555555555555556in"}
-
-![](media/image2.png){width="6.268055555555556in" height="3.3784722222222223in"}
-
-![](media/image3.png){width="6.268055555555556in" height="3.3694444444444445in"}
-
-🎯 [Objective:]{.underline}
+🎯 Objective:
 
 The objective of this project is to analyze the impact of remote work on employee mental health and productivity. It aims to:
 
@@ -22,7 +14,7 @@ The objective of this project is to analyze the impact of remote work on employe
 
 - Provide actionable insights for improving remote work policies
 
-🔍 [Scope:]{.underline}
+🔍 Scope:
 
 1.  Cleaned and structured dataset for analysis
 
@@ -34,11 +26,11 @@ The objective of this project is to analyze the impact of remote work on employe
 
 5.  Recommendations for improving remote work strategies
 
-🌐 [Domain:]{.underline}
+🌐 Domain:
 
 This project falls under the HR Analytics / Workplace Analytics domain, focusing on employee performance, mental health, and organizational productivity in remote work environments.
 
-📁 [Dataset Information:]{.underline}
+📁 Dataset Information:
 
 Source: Kaggle -- Remote Work & Mental Health
 
@@ -48,7 +40,7 @@ Description:
 
 The dataset contains information related to employee work conditions, mental health indicators, productivity levels, and work environment factors. It helps in analyzing how remote work affects both psychological well-being and job performance.
 
-⚙️ [Step-by-Step Project Workflow:]{.underline}
+⚙️ Step-by-Step Project Workflow:
 
 **Stage 1: Exploratory Data Analysis (EDA)**
 
@@ -76,7 +68,7 @@ The dataset contains information related to employee work conditions, mental hea
 
 - Created final story from dashboard
 
-📊 [Key Findings:]{.underline}
+📊 Key Findings:
 
 - Remote work initially improves productivity due to flexibility
 
@@ -88,7 +80,7 @@ The dataset contains information related to employee work conditions, mental hea
 
 - Communication gaps reduce engagement and efficiency
 
-💡 [Key Insights:]{.underline}
+💡 Key Insights:
 
 - Productivity Trend: Rises initially, then stabilizes or declines
 
@@ -100,7 +92,7 @@ The dataset contains information related to employee work conditions, mental hea
 
 - Communication: Lack of interaction reduces performance
 
-📈 [Business Recommendations:]{.underline}
+📈 Business Recommendations:
 
 - Prioritize Mental Health: Provide support programs and flexible policies
 
@@ -112,7 +104,7 @@ The dataset contains information related to employee work conditions, mental hea
 
 - Track Well-being Metrics: Monitor employee satisfaction and stress levels
 
-🚀 [Future Enhancements:]{.underline}
+🚀 Future Enhancements:
 
 - Use larger and more recent datasets for deeper insights
 
@@ -122,7 +114,7 @@ The dataset contains information related to employee work conditions, mental hea
 
 - Implement predictive modeling for forecasting trends
 
-📖 [Final Story:]{.underline}
+📖 Final Story:
 
 The dashboard tells a clear story:
 
@@ -138,7 +130,7 @@ The dashboard tells a clear story:
 
 Overall, remote work is effective but requires proper support systems to ensure long-term success.
 
-🔗 [Links:]{.underline}
+🔗 Links:
 
 Dataset Source: Kaggle - [Remote Work and Mental Health Dataset](https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health/data)
 
@@ -150,10 +142,10 @@ Google Colab: [Google Colab Link](https://colab.research.google.com/drive/1BsQfJ
 
 Power BI Dashboard: [Power BI Dashboard](https://drive.google.com/file/d/1L9WBGklYEDoNpijNj2U_-NLAr_lSb_ha/view)
 
-🧾 [Conclusion:]{.underline}
+🧾 Conclusion:
 
 The analysis revealed meaningful relationships between remote work, mental health, and productivity. The insights highlight key factors influencing employee outcomes and provide a strong foundation for data-driven business decisions.
 
-👤 [Author:]{.underline}
+👤 Author:
 
 Kathiresan S
